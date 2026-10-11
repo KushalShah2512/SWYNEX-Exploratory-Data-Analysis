@@ -1,4 +1,4 @@
-TransactionType,Transactions,Revenue
-Adjustment,3393,0.0
-Cancellation/Return,19104,-1462050.61
-Sale,1010534,20476260.448
+TransactionType,Transactions,Unique_Invoices,Quantity,Revenue
+Adjustment,3393,3393,-569314,0.0
+Cancellation/Return,19104,8292,-476819,-1462050.61
+Sale,1010534,41938,11455907,20476260.448
