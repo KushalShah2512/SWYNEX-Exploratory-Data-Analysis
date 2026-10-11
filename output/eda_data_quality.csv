@@ -1,0 +1,17 @@
+,Data Type,Missing Values,Missing %,Unique Values
+Invoice,str,0,0.0,53623
+StockCode,str,0,0.0,5305
+Description,str,363,0.04,5698
+Quantity,int64,0,0.0,1057
+InvoiceDate,datetime64[us],0,0.0,47631
+Price,float64,0,0.0,2803
+Customer ID,float64,235146,22.76,5942
+Country,str,0,0.0,43
+IsCancellation,bool,0,0.0,2
+IsZeroPrice,bool,0,0.0,2
+TransactionType,str,0,0.0,3
+Revenue,float64,0,0.0,8802
+Year,int64,0,0.0,3
+Month,int64,0,0.0,12
+MonthName,str,0,0.0,12
+YearMonth,str,0,0.0,25
